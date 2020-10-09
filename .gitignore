@@ -1,0 +1,10 @@
+#ignoring this files in git
+/keys.json
+/LOGS.txt
+/exceltrial.xlsx
+/token.pickle
+/bkp.py
+/~$*.*
+
+#ignoring files of vscode
+./vscode
